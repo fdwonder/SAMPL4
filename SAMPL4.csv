@@ -1,0 +1,53 @@
+NAME,MW,HFE,DHFE,SMILES
+(e)-3-Hexenyl acetate,141.192,-2.61,0.1,CCC=CCCOC(=O)C
+"1-(2-Hydroxyethylamino)-9,10-anthraquinone",267.28,-14.21,1.1,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)NCCO
+"1,1-Diphenylethene",180.245,-2.78,0.1,C=C(C1=CC=CC=C1)C2=CC=CC=C2
+"1,2-Dimethoxybenzene",138.17,-5.33,0.1,COC1=CC=CC=C1OC
+"1,2-Dihydroxy-9,10-anthraquinone",240.218,-10.6,0.1,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)O)O
+"1,3-Butanediol dinitrate",180.12,-4.29,0.39,CC(CCO[N+](=O)[O-])O[N+](=O)[O-]
+"1,3-Propanediol dinitrate",166.09,-4.8,0.39,C(CO[N+](=O)[O-])CO[N+](=O)[O-]
+"1,4-Diamino-9,10-anthraquinone",238.25,-11.85,0.35,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)N)N
+"1,4-dioxane",88.11,-5.08,0.1,C1COCCO1
+"1-Amino-4-hydroxy-9,10-anthraquinone",239.23,-9.53,0.28,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)O)N
+"1-Amino-9,10-anthraquinone",223.23,-9.44,0.74,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)N
+1-benzylimidazole,159.214,-7.63,0.12,C1=CC=C(C=C1)CN2C=CN=C2
+1-Butoxy-2-propanol,132.2,-5.73,0.15,CCCCOCC(C)O
+1-Ethyl-2-methylbenzene,120.2,-0.85,0.1,CCC1=CC=CC=C1C
+"2,6-Dichlorosyringaldehyde",251.06,-8.68,0.76,COC1=C(C(=C(C(=C1Cl)C=O)Cl)OC)O
+"2,6-Dimethoxyphenol",154.16,-6.96,0.1,COC1=C(C(=CC=C1)OC)O
+"2-Amino-9,10-anthraquinone",223.23,-11.53,0.29,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)N
+2-Chlorosyringaldehyde,216.62,-7.78,0.77,COC1=C(C(=C(C(=C1)C=O)Cl)OC)O
+2-Ethoxyethyl acetate,132.16,-5.31,0.1,CCOCCOC(=O)C
+2-Ethylphenol,122.17,-5.66,0.1,CCC1=CC=CC=C1O
+2-Hydroxybenzaldehyde,122.12,4.68,0.1,C1=CC=C(C(=C1)C=O)O
+2-Methoxyphenol,124.14,-5.94,0.1,COC1=CC=CC=C1O
+2-Methylbenzaldehyde,120.15,-3.93,0.1,CC1=CC=CC=C1C=O
+"3,4-Dichlorophenol",163.0,-7.29,0.1,C1=CC(=C(C=C1O)Cl)Cl
+"3,5-Dichlorosyringol",223.05,-6.44,0.38,COC1=C(C(=C(C=C1Cl)Cl)OC)O
+3-Chlorosyringol,188.61,-6.86,0.13,COC1=C(C(=C(C=C1)Cl)OC)O
+"4,5-Dichloroguaiacol",193.03,-3.58,0.21,COC1=CC(=C(C=C1O)Cl)Cl
+4-Methyl-2-methoxyphenol,138.17,-5.8,0.1,CC1=CC(=C(C=C1)O)OC
+4-propylguaiacol,166.217,-5.26,0.18,CCCC1=CC(=C(C=C1)O)OC
+5-Chloroguaiacol,158.58,-5.26,0.12,COC1=C(C=C(C=C1)Cl)O
+"9,10-Dihydroanthracene",180.25,-3.76,0.1,C1C2=CC=CC=C2CC3=CC=CC=C31
+Amitriptyline,277.41,-7.43,1.35,CN(C)CCC=C1C2=CC=CC=C2CCC3=CC=CC=C31
+Anthracene,178.23,-4.14,0.1,C1=CC=C2C=C3C=CC=CC3=CC2=C1
+Dibenzo-p-dioxin,184.19,-3.16,0.1,C1=CC=C2C(=C1)OC3=CC=CC=C3O2
+Carveol,152.24,-4.44,0.3,CC1=CCC(CC1O)C(=C)C
+Cyclohexene,82.15,0.14,0.1,C1CCC=CC1
+Dihydrocarvone,152.238,-3.75,0.29,CC1CCC(CC1=O)C(=C)C
+Diphenhydramine,255.363,-9.34,0.62,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2
+Diphenyl ether,170.21,-2.32,0.1,C1=CC=C(C=C1)OC2=CC=CC=C2
+Geraniol,154.25,-4.97,0.59,CC(=CCCC(=CCO)C)C
+Hexyl acetate,144.21,-2.29,0.12,CCCCCCOC(=O)C
+Hexyl nitrate,147.17,-1.66,0.1,CCCCCCO[N+](=O)[O-]
+linalyl acetate,196.292,-2.49,0.85,CC(=CCCC(C)(C=C)OC(=O)C)C
+Mannitol,182.178,-23.62,-0.31,C(C(C(C(C(CO)O)O)O)O)O
+Mefenamic acid,241.29,-6.78,0.1,CC1=C(C(=CC=C1)NC2=CC=CC=C2C(=O)O)C
+Menthol,156.27,-3.2,0.27,CC1CCC(C(C1)O)C(C)C
+Menthone,154.25,-2.53,0.25,CC1CCC(C(=O)C1)C(C)C
+Nerol,154.254,-3.96,0.2,CC(=CCCC(=CCO)C)C
+l-Perillaldehyde,150.22,-4.09,0.17,CC(=C)C1CCC(=CC1)C=O
+Piperidine,85.15,-5.05,0.1,C1CCNCC1
+Piperitone,152.238,-4.51,0.065,CC1=CC(=O)C(CC1)C(C)C
+Tetrahydropyran,86.13,-3.13,0.1,C1CCOCC1
